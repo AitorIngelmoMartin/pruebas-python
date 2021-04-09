@@ -1,5 +1,5 @@
 #Este programa consiste en adivinar un número aleatorio entre el 0 y el 99.
-#Según vallas introduciendo valores, el programa te dará una písta de si te has quedado corto o has excedido el valor que buscas.
+#Según vayas introduciendo valores, el programa te dará una písta de si te has quedado corto o has excedido el valor que buscas.
 #Tras adivinar el número, te devolverá el número de intentos y el valor del número que buscabas.
 
 
