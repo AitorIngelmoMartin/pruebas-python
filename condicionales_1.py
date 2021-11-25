@@ -8,3 +8,10 @@ if numero1>numero2 :
 if numero2>numero1 :
         print('el número más grande es el:')
         print(numero2)
+
+for a in 5: 
+    print("Tenemos un problema")
+
+
+
+
